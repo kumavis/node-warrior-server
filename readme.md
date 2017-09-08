@@ -1,5 +1,7 @@
 # voxel-server
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/voxel-server.svg)](https://greenkeeper.io/)
+
 multiplayer server for [voxel-engine](http://github.com/maxogden/voxel-engine)
 
 Use with [voxel-client](https://github.com/kumavis/voxel-client)
